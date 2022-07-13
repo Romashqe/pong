@@ -1,2 +1,2 @@
 # pong
-Learning Python ;)
+Making a little game with Python and turtle module
